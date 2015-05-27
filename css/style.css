@@ -1,0 +1,10 @@
+body {
+  font-family: Courier;
+  text-align: center;
+  color: #494949;
+}
+canvas {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
